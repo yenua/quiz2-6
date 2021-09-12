@@ -57,3 +57,5 @@ int main()
 
 	startGame(room1);
 }
+
+//테스트
